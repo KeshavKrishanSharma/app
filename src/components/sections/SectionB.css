@@ -1,0 +1,43 @@
+.boss{
+    overflow-x: scroll;
+    display: flex;
+    height: 52px;
+   overflow-y: hidden;
+   opacity: 1;
+}
+.doss{
+    overflow-x: scroll;
+    display: flex;
+    height: 37px;
+    overflow-y: hidden;
+
+
+}
+
+.fs-sm{
+    font-size: 14px ;
+    border-color: rgb(173, 172, 171);
+   flex-direction: row;
+    
+    
+}
+.fs-sm:hover{
+    border-color: black;
+   
+}
+.fs-ssm{
+    font-size: 14px ;
+    background-color:  rgb(233, 231, 231);
+    
+}
+.fs-ssm:hover{
+    color: black;
+    background-color:  rgb(230, 227, 227);
+    
+}
+
+.line{
+   
+    border-right: solid ;
+    border-color: rgb(186, 187, 187);
+}

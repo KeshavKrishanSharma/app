@@ -1,0 +1,23 @@
+.logo-text{
+    font-family: 'Poppins', sans-serif;
+    color: #FF385C;
+    font-weight: 600;
+    font-size: 22px;
+}
+.btnb:hover{
+    background-color:#f1f3f9;
+    
+}
+.btnb,.btna{
+    border-radius: 50px;
+}
+.car{
+    display: block;
+    height: 32px;
+    width: 32px;
+    fill: currentcolor;
+
+}
+.sub{
+    height: 30px;
+}

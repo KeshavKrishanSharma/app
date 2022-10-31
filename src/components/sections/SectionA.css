@@ -1,0 +1,21 @@
+::-webkit-scrollbar{
+  display: none;
+}
+
+html{
+  
+}
+.button-contianer {
+    display: flex;
+    justify-content: end;
+  }
+  
+  
+  .scroll{
+    overflow-x: scroll;
+    display: flex;
+    overflow-y: hidden;
+   
+    
+  }
+
