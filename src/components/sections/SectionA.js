@@ -49,25 +49,25 @@ const SectionA = () => {
     <>
       <div className="container">
         <div className="row">
-          <div className="col-10">
+          <div className="col-9">
           <h1 className="pt-3 pb-3">New this week</h1>
 
           </div>
-          <div className="col-2 align-self-center ">
-          <button className="rounded-circle ms-5   me-2"
+          <div className="col-3 align-self-center d-flex justify-content-end ">
+          <button className="rounded-circle "
           onClick={() => {
             handleHorizantalScroll(elementRef.current, 25, 300, -50);
           }}
           disabled={arrowDisable}
         >
-          <i class="ri-arrow-left-s-line"></i>
+          <i className="ri-arrow-left-s-line"></i>
         </button>
         <button className="rounded-circle"
           onClick={() => {
             handleHorizantalScroll(elementRef.current, 25, 300, 50);
           }}
         >
-          <i class="ri-arrow-right-s-line"></i>
+          <i className="ri-arrow-right-s-line"></i>
         </button>
           </div>
         </div>
