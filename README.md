@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# Car rental app with HTML,CSS,JavaScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo of this Sample: https://car-rental-site-5150e.web.app/
 ## Available Scripts
 
 In the project directory, you can run:
